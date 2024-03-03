@@ -29,6 +29,18 @@ let contacts = [
     place: "Trichy",
     mobileNumber: "+91 3456346546",
   },
+  {
+    id: 5,
+    name: "Trisha",
+    place: "Chennai",
+    mobileNumber: "+91 34645645564",
+  },
+  {
+    id: 5,
+    name: "Trisha",
+    place: "Chennai",
+    mobileNumber: "+91 34645645564",
+  },
 ];
 const Contact = () => {
   return (
